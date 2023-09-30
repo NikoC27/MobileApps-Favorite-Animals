@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Project02">
+    </string>
+    <string name="big_picture">Big Picture</string>
+    <string name="animal_info">Animal Info</string>
+    <string name="wiki_page">Wiki Page</string>
+    <string name="app_name">Project02</string>
+</resources>

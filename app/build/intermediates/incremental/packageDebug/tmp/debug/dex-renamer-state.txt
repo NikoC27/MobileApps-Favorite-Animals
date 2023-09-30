@@ -1,0 +1,7 @@
+#Fri Sep 29 23:05:34 CDT 2023
+base.1=/Users/ncaste27/Desktop/CS478/Project02/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+path.1=classes.dex
+base.0=/Users/ncaste27/Desktop/CS478/Project02/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

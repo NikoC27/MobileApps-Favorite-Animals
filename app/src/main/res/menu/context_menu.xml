@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/big_picture"
+          android:title="@string/big_picture"/>
+    <item android:id="@+id/animal_info"
+        android:title="@string/animal_info"/>
+    <item android:id="@+id/wiki_page"
+        android:title="@string/wiki_page"/>
+</menu>
